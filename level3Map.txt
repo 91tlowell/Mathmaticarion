@@ -1,0 +1,23 @@
+S________^^^^^
+^^^^^_________
+^^^____U___^^^
+____^^^^____^^
+__H__^^^______
+____^^^_____H_
+______^^^____^
+___^^^^U____^^
+^__________^^^
+^^________^^^^
+^^^_H______^^^
+^^^^________^^
+^^^^^_______U^
+^^^^_______^^^
+^^^__B____^^^^
+
+S = start
+H = health
+U = upgrade
+B = boss
+___ = land, player is able to travel on land
+^^^ = mountains, player is not able to travel on mountains
+~~~ = water, player is not able to travel on water

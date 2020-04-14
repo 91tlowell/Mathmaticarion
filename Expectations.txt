@@ -1,0 +1,20 @@
+This game is meant to be a learning tool. This game is also a very accurate depiction of what my semester has been like
+taking college level calculus. When you decide to play the game you will be moving your character around a map (level) that
+is dependent on the amount of experience points you have. Starting a new game you will have 0 experience points and thus
+start at the beginning.
+
+Everytime that you move around the map you will have to solve a very simple arithmetic. Everytime that you succesfully
+complete a task while movign around the map you will gain experience points. You must obtain a certian amount of experience 
+points to be able to fight the boss that is at the end of every level. 
+
+The types of math problems are more difficult while fighting the boss than just traveling around the maps. The first boss,
+the types of tasks are a variety of arithmetic that will challenge your PEMDAS expertise. The second boss, the types of tasks
+are factoring algebraic problems. The third boss, the types of tasks are finding the derivative of the presented function. The 
+final boss you are meant to find the antiderivative of a presented function. If you are thinking that the level of math goes
+from extremely easy to quite difficult, well....welcome to my experience of college calculus. 
+
+There are some upgrades that can make this game a bit easier going. When starting a new game you have no upgrades. If you land
+on a position of the map with a U on it, you will be able to purchase upgrades. The upgrades can aid you and some can give you
+a perception of aid. You will have to learn this by experience.
+
+Good luck out there! Remember you can do this!

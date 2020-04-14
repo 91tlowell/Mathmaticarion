@@ -1,0 +1,3 @@
+y=1,y=x,y=2x,y=x^2,y=x^3,y=x^2+3x,y=x^2+4x+9,y=x^4+x^3+2x^2+3x+5,y=x^2-2x,y=x^3-x^2,y=sinx,y=cosx
+y=tanx,y=cotx,y=secx,y=cscx,y=-sinx,y=-cosx,y=lnx,y=e^x,y=(2x)/x^2,y=x/3x,y=x^2/x^3,y=(e^x)(lnx),y=cosx(-sinx)
+y=(sinx)^3,y=ln(x^3),y=(x^2+2)^3,y=(2cosx)^2,y=ln(cosx),y=(x^2+4x-2)^2,y=2/(sinx)

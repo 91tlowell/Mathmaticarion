@@ -1,0 +1,23 @@
+S_______^^^^~~
+~^^______^^^~^
+~~^^___H__^^~~
+~~~^^______^^~
+~~^^________^~
+~^^_H______~~^
+~^______U__~~~
+^~~_________~~
+~~___________~
+~___^^^^^_____
+_____^^^______
+__H___^^___H__
+______^_______
+_U___^^^______
+____^^^^^____B
+
+S = start
+H = health huts
+U = upgrade shop.
+B = Boss
+___ = land, player is able to travel on land
+^^^ = mountains, player is not able to travel on mountains
+~~~ = water, player is not able to travel on water
